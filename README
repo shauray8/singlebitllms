@@ -2,4 +2,10 @@ Single Bit LLMs
 
 Single-bit precision autoregressive somewhat large language models 
 for research purposes maybe this is something we will be using in the near future and future generations will go why the fuck were these people using 16 bits of precision
+---
 https://arxiv.org/abs/2402.17764
+https://arxiv.org/pdf/2310.11453.pdf
+---
+There are some graphs toward the starting of the paper, I would want to verify those so here it is a reproduction with mistral 7B V0.1
+
+
