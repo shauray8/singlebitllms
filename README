@@ -8,4 +8,7 @@ https://arxiv.org/pdf/2310.11453.pdf
 ---
 There are some graphs toward the starting of the paper, I would want to verify those so here it is a reproduction with mistral 7B V0.1
 
+Turns out graphing MMLU or any EVAL for that matter for quantizer models is pretty slow, either I wiill make this fast now or maybe after I'm done with the paper 
+
+anyways here are all the quantized models - https://huggingface.co/shauray/mistral_GGUF_TEST01
 to be done 
